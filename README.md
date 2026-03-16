@@ -18,6 +18,8 @@ This project documents its complete journey: from schematic design and Proteus t
 The first production run of the **MayMa** PCB has officially arrived, marking a major milestone in the project’s transition from simulation to real-world hardware.
 
 ![Board Front](PCB%20(%20by%20PCBWay)/Closeup.JPG)
+![Assembly](Assembly/Assembly2.jpg)
+
 
 ### Board Quality Highlights
 
